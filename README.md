@@ -13,12 +13,9 @@ For front-end use of React-Native.
                                           
                                           
                                           
-                                          ![Daco_2007563](https://github.com/RochanaGodigamuwa/PawLink/assets/125296645/b99475e0-57a9-45dd-a740-029be2ac3bf5)
 
 
-
-
-
+  ![Daco_2007563](https://github.com/RochanaGodigamuwa/PawLink/assets/125296645/9421ef74-3353-4ca7-ace5-7ff18ed19e77)
 
 
 
