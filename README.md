@@ -69,5 +69,26 @@ For Backend used of Firebase :
 
 
 
+For App decorations ude of Tailwind :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![9074204_tailwind_icon](https://github.com/RochanaGodigamuwa/PawLink/assets/125296645/81ca3683-042b-4a7c-861f-d4397486c228)
 
 pawlink.blog
